@@ -1,2 +1,2 @@
 # BART Large CNN Abstract Summarization
- Summarizes text of abstract from research papers in PDF format.
+ Summarize text of abstracts from arXiv papers in PDF format.
